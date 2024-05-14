@@ -1,2 +1,4 @@
 # sabbir-quadri
-this is my repository
+This is my first Git Repository
+<br>
+Author - sabbir quadri
